@@ -1,2 +1,2 @@
-# about-me
-My first Git-Hub project 
+# About Me  My name is **sydney
+softball, hanging out woth my friends and my boyfriend
